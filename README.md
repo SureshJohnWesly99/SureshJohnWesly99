@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Suresh John Wesly Ginjupalli
-![](https://visitor-badge.laobi.icu/badge?page_id=SureshJohnWesly99.Images)
+![](https://visitor-badge.laobi.icu/badge?page_id=SureshJohnWesly99.SureshJohnWesly99)
 [![Github](https://img.shields.io/github/followers/SureshJohnWesly99?label=Follow&style=social)](https://github.com/SureshJohnWesly99)<br>
 
 <div>
