@@ -8,8 +8,6 @@
 </div>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### Hi there 👋
-
 ### About me
 - 👨🏻‍🎓 M.S. Computer Science student 
 - 👨🏻‍💻 Software Developer
