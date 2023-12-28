@@ -20,7 +20,8 @@
 - 🎮 Web Development
 - 🧠 Artificial Intelligence
 - 👨‍💻 Problem Solving
-
+- 🌱 Active Learner
+  
 <!--### Languages and tools-->
 
 ### GitHub stats
