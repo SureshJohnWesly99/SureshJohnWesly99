@@ -28,6 +28,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshJohnWesly99&langs_count=8&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=495">
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SureshJohnWesly99&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshJohnWesly99" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshJohnWesly99&count_private=true&show_icons=true&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=500" />
 </div>
