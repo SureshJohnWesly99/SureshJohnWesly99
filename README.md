@@ -15,7 +15,6 @@
 
 ### Interests
 - 📱 Programming
-- 🐧 Linux OS 
 - 🎮 Web Development
 - 🧠 Artificial Intelligence
 - 👨‍💻 Problem Solving
