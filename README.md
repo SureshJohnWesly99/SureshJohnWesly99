@@ -27,6 +27,10 @@
   
 <!--### Languages and tools-->
 
+</p>
+<img src='./images/contribution.svg'>
+<br>
+
 ### ✨GitHub stats
 
 <div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
