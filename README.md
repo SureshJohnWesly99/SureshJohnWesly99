@@ -1,4 +1,4 @@
-## Suresh John Wesly Ginjupalli
+## Suresh John Wesly Chowdary Ginjupalli
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Suresh;Student+at+University+of+North+Texas;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
