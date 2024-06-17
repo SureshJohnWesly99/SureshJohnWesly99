@@ -1,4 +1,7 @@
 ## Suresh John Wesly Ginjupalli
+<div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Suresh;Student+at+University+of+North+Texas;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
 ![](https://visitor-badge.laobi.icu/badge?page_id=SureshJohnWesly99.SureshJohnWesly99)
 [![Github](https://img.shields.io/github/followers/SureshJohnWesly99?label=Follow&style=social)](https://github.com/SureshJohnWesly99)<br>
 
