@@ -27,6 +27,12 @@
 <!--### Languages and tools-->
 
 ### ✨GitHub stats
+
+<div style="display: flex; gap:30px; align-items: center; justify-content:space-evenly;">
+	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
+	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SureshJohnWesly99&count_private=true&show_icons=true&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshJohnWesly99&langs_count=8&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=495">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshJohnWesly99&count_private=true&show_icons=true&title_color=2b7a78&text_color=17252a&icon_color=3aafa9&hide_border=true&bg_color=def2f1&hide_title=false&card_width=500" />
