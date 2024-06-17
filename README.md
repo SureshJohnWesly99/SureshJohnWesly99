@@ -13,7 +13,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### About me
-- 👨🏻‍🎓 M.S. Computer Science student 
+- 👨🏻‍🎓 M.S. Computer Science Student 
 - 👨🏻‍💻 Software Developer
 
 
