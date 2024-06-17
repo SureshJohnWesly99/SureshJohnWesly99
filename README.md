@@ -28,7 +28,7 @@
 <!--### Languages and tools-->
 
 </p>
-<img src='./images/contribution.svg'>
+<img src='./contribution.svg'>
 <br>
 
 ### ✨GitHub stats
