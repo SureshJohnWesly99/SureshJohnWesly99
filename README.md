@@ -65,12 +65,9 @@ Languages & Tools
 	<img style="height:155px" src="https://github-readme-stats.vercel.app/api?username=SureshJohnWesly99&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
 	<img style="height:155px" src="https://github-readme-streak-stats.herokuapp.com/?user=SureshJohnWesly99&theme=chartreuse-dark&hide_border=true"/>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshJohnWesly99&langs_count=8&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true">
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sureshjohn21175/30-nites-of-code)  
   ![@sureshjohn21175 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sureshjohn21175)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshJohnWesly99&langs_count=8&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true">
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SureshJohnWesly99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
